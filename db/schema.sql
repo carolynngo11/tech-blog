@@ -1,0 +1,5 @@
+DROP DATABASE IF EXISTS tb_db;
+
+CREATE DATABASE tb_db;
+
+USE tb_db;
