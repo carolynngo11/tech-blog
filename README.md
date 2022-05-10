@@ -15,6 +15,11 @@ The objective of this project is to create a Tech-blog for users to be able to p
 Used node, nodemon -D, MYSQL, MYSQL2, sequilize, dotenv, bcrypt, express, express-handlebars, express-session.
 
 ## Usage
+
+Demo Example:
+
+<img src="./Assets/14-mvc-homework-demo-01.gif" width="600" height="350"/>
+
 [Deployed Link](https://mvc-t-blog.herokuapp.com/)
 
 ## Questions
