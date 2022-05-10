@@ -1,4 +1,4 @@
-# 14 MVC: Tech Blog
+# MVC: Tech Blog
 
 ![](https://img.shields.io/badge/License-MIT-blue)
 
