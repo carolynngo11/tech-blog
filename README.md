@@ -15,7 +15,7 @@ The objective of this project is to create a Tech-blog for users to be able to p
 Used node, nodemon -D, MYSQL, MYSQL2, sequilize, dotenv, bcrypt, express, express-handlebars, express-session.
 
 ## Usage
-[Deployed Link](https://carolynngo11.github.io/tech-blog/)
+[Deployed Link](https://mvc-t-blog.herokuapp.com/)
 
 ## Questions
 Have any Questions? Contact me: [carolynngo11@yahoo.com](mailto:carolynngo11@yahoo.com)
