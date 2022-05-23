@@ -11,12 +11,6 @@ const loginFormHandler = async (event) => {
         body: JSON.stringify({ username, password }),
         headers: { 'Content-Type': 'application/json' },
       });
-  
-      if (response.ok) {
-        return document.location.replace('/api/recipes');
-      } else {
-        return console.error('Incorrect Username or Password!')
-      }
     }
   };
   
@@ -32,12 +26,6 @@ const loginFormHandler = async (event) => {
         body: JSON.stringify({ username, password }),
         headers: { 'Content-Type': 'application/json' },
       });
-  
-      if (response.ok) {
-        return document.location.replace('/api/recipes');
-      } else {
-        return console.error('Invalid Username or Password!')
-      }
     }
   };
   
