@@ -19,8 +19,6 @@ server.use(express.json())
 server.use(express.urlencoded({ extended: false }));
 server.use(express.static(path.join(__dirname, 'public')))
 
-// Session Setup
-
 server.use(session({
     secret: 'hk12h3k2fsc',
     resave: false,
